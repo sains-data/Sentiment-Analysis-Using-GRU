@@ -33,28 +33,28 @@ This study aims to compare the performance of the BiGRU model with Att-BiGRU in 
   <tr>
     <td>
       <a href="https://github.com/kevinsimorangkir21">
-        <img src="Images/Mentahan/Kevin.png" width="109px;" /><br />
+        <img src="Images/Mentahan/Kevin.png" width="120px;" /><br />
         <sub><b>Kevin Simorangkir</b></sub>
       </a><br />
       121140150
     </td>
     <td>
       <a href="https://github.com/nafamubarokhusni">
-        <img src="Images/Mentahan/Husni.png" width="109px;" /><br />
+        <img src="Images/Mentahan/Husni.png" width="120px;" /><br />
         <sub><b>Husni Na'fa Mubarok</b></sub>
       </a><br />
       121450078
     </td>
     <td>
       <a href="https://github.com/ramadhitatifa">
-        <img src="Images/Mentahan/Dhita.png" width="109px;" /><br />
+        <img src="Images/Mentahan/Dhita.png" width="120px;" /><br />
         <sub><b>Ramadhita Atifa</b></sub>
       </a><br />
       121450131
     </td>
     <td>
       <a href="https://github.com/awesomemaya1">
-        <img src="Images/Mentahan/Maya.png" width="109px;" /><br />
+        <img src="Images/Mentahan/Maya.png" width="120px;" /><br />
         <sub><b>Mayada</b></sub>
       </a><br />
       121450145
