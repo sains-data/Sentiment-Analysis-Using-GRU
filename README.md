@@ -64,7 +64,7 @@ This study aims to compare the performance of the BiGRU model with Att-BiGRU in 
 
 
 ## **ID & Position Member Of CHUAKZ Team**
-<div align="center">
+<div align="left">
 
 | Name | ID Student | Position
 | :---: | :---: | :---: |
