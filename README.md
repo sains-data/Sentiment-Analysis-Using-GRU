@@ -29,8 +29,39 @@ This study aims to compare the performance of the BiGRU model with Att-BiGRU in 
 
 ## **Member Of CHUAKZ Team**
 
-|  [<img src="Images/Mentahan/Kevin.png" width="100px;"/><br /><sub><b>Kevin Simorangkir</b></sub>](https://github.com/kevinsimorangkir21)<br /> 121140150 <br /> | [<img src="Images/Mentahan/Husni.png" width="100px;"/><br /><sub><b>Husni Na'fa Mubarok</b></sub>](https://github.com/nafamubarokhusni)<br />121450078 <br /> | [<img src="Images/Mentahan/Dhita.png" width="100px;"/><br /><sub><b>Ramadhita Atifa</b></sub>](https://github.com/ramadhitatifa)<br /> 121450131 <br /> | [<img src="Images/Mentahan/Maya.png" width="100px;"/><br /><sub><b>Mayada</b></sub>](https://github.com/awesomemaya1)<br />121450145 <br /> |
-|--|--|--|--|
+<table style="margin: auto; text-align: center;">
+  <tr>
+    <td>
+      <a href="https://github.com/kevinsimorangkir21">
+        <img src="Images/Mentahan/Kevin.png" width="100px;" /><br />
+        <sub><b>Kevin Simorangkir</b></sub>
+      </a><br />
+      121140150
+    </td>
+    <td>
+      <a href="https://github.com/nafamubarokhusni">
+        <img src="Images/Mentahan/Husni.png" width="100px;" /><br />
+        <sub><b>Husni Na'fa Mubarok</b></sub>
+      </a><br />
+      121450078
+    </td>
+    <td>
+      <a href="https://github.com/ramadhitatifa">
+        <img src="Images/Mentahan/Dhita.png" width="100px;" /><br />
+        <sub><b>Ramadhita Atifa</b></sub>
+      </a><br />
+      121450131
+    </td>
+    <td>
+      <a href="https://github.com/awesomemaya1">
+        <img src="Images/Mentahan/Maya.png" width="100px;" /><br />
+        <sub><b>Mayada</b></sub>
+      </a><br />
+      121450145
+    </td>
+  </tr>
+</table>
+
 
 ## **ID & Position Member Of CHUAKZ Team**
 <div align="center">
