@@ -84,7 +84,7 @@ python --version
 (https://github.com/kevinsimorangkir21/Sentiment-Analysis-Using-GRU.git)
 ```
 
-<li\> Please change the directory to point to the clone folder with the following command:</li\>
+<li> Please change the directory to point to the clone folder with the following command:</li>
 
 ```bash
 cd Sentiment-Analysis-Using-GRU
@@ -92,7 +92,7 @@ cd Sentiment-Analysis-Using-GRU
 
 <li> Next step, open the text editor that you have that supports python language. Please direct your cursor to the Analysis GRU.ipynb file.</li>
 
-<li\> Please click Run All (On Visual Studio Code) and Runtime -> Run All (On Google Collab. Then the program will run successfully.</li\>
+<li> Please click Run All (On Visual Studio Code) and Runtime -> Run All (On Google Collab. Then the program will run successfully.</li>
 
 <!-- ## **UML Diagram**
 
