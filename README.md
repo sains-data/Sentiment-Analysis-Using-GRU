@@ -94,13 +94,13 @@ cd Sentiment-Analysis-Using-GRU
 
 <li> Please click <b>Run All (On Visual Studio Code)</b> and <b>Runtime -> Run All (On Google Collab)<b\> . Then the program will run successfully.</li>
 
-<!-- ## **UML Diagram**
+## **Documentation**
+The following is documentation of a series of studies for this major Deep Learning assignment for Group 06, namely as follows:
+<img src="Images/Documentation/Documentation.png" />
+- For those that are pictured Coming Soon, it is an agenda that has not been implemented
+- Updated regularly
 
-### The following is the UML diagram in this LOST game which has been arranged in a perfect structure according to the plot :
-
-<img src="UML/UMLV2.png" />
-
-## **Screenshots**
+<!-- ## **Screenshots**
 ### The following is the appearance of the game in this LOST game which has been arranged with a perfect structure according to the plot :
 <img src="img/Screenshot/Lost - Screenshot 1.png" />
 
