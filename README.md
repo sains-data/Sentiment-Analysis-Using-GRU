@@ -4,7 +4,7 @@
 
 <!-- [![Library](https://img.shields.io/badge/pygame-orange)](#) -->
 [![Github Commit](https://img.shields.io/github/commit-activity/m/kevinsimorangkir21/Sentiment-Analysis-Using-GRU)](#)
-[![Github Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg)](#)
+[![Github Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg)](#)
 </div>
 
 ## <img src="Images/Mentahan/LogoPanah.svg" width="30px;"/> **Table Of Contents**
