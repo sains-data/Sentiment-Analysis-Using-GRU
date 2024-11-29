@@ -81,7 +81,7 @@ python --version
 <li> Open a terminal / something like GitBash etc. Please clone this Repository by following the following command and copy it in your terminal:</li>
 
 ```bash
-(https://github.com/kevinsimorangkir21/Sentiment-Analysis-Using-GRU.git)
+https://github.com/kevinsimorangkir21/Sentiment-Analysis-Using-GRU.git
 ```
 
 <li> Please change the directory to point to the clone folder with the following command:</li>
