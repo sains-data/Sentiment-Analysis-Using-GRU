@@ -47,7 +47,7 @@ This study aims to compare the performance of the BiGRU model with Att-BiGRU in 
 The dataset used in the research on Sentiment Analysis Using GRU is a Film Review consisting of 5000 data that has been obtained. The dataset can be downloaded via the link below:
 
 ```bash
-[IMDB Review Film](https://github.com/kevinsimorangkir21/Sentiment-Analysis-Using-GRU/releases/download/Dataset/IMDB.Dataset.csv)
+[IMDB Review Film]([](https://bit.ly/Dataset-ReviewFilm))
 ```
 
 ### The following is the Game LOST installation flow :
