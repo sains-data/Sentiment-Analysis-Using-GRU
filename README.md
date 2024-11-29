@@ -50,42 +50,51 @@ The dataset used in the research on Sentiment Analysis Using GRU is a Film Revie
 https://bit.ly/Dataset-ReviewFilm
 ```
 
-### The following is the Game LOST installation flow :
+## **Installation Steps**
+### **Preparation of Needs**
+Some of the preparations needed to carry out this research project are as follows:
 
-<li> Install Python 3.6 or higher </li>
-<li> Install python-pip or python3-pip </li>
-<li> Open terminal where you want ti clone the repository and run the following command : </li>
-
-```bash
-git clone https://github.com/kevinsimorangkir21/Tugas-Besar-PBO.git
-cd Tugas-Besar-PBO
-```
-
-<li> After that it is expected to install pygame </li>
+<li> Install python software/code first </li>
 
 ```bash
-pip instal pygame
-
+https://www.python.org/downloads/
 ```
 
-## **Running the Game with Python**
-
-### The following is the Game LOST installation flow :
-
-<li> Install Python 3.6 or higher</li>
-<li> Run the following command to start the game: </li>
+<li> After installing, first check whether Python has been installed properly using the following command: </li>
 
 ```bash
-python3 main.py
+python --version
 ```
 
-<li> Alternative command: </li>
+<li> Once the python version appears, please open a text editor that supports it such as Visual Studio Code and the web-based Google Collab. Here are the links to use both (please download and install):</li>
 
 ```bash
-python main.py
+[Software VISUAL STUDIO CODE](https://code.visualstudio.com/)
+```
+  
+```bash
+[Software GOOGLE COLLAB](https://colab.research.google.com/)
 ```
 
-## **UML Diagram**
+### **Program Running Stage**
+
+<li> Open a terminal / something like GitBash etc. Please clone this Repository by following the following command and copy it in your terminal:</li>
+
+```bash
+(https://github.com/kevinsimorangkir21/Sentiment-Analysis-Using-GRU.git)
+```
+
+<li\> Please change the directory to point to the clone folder with the following command:</li\>
+
+```bash
+cd Sentiment-Analysis-Using-GRU
+```
+
+<li> Next step, open the text editor that you have that supports python language. Please direct your cursor to the Analysis GRU.ipynb file.</li>
+
+<li\> Please click Run All (On Visual Studio Code) and Runtime -> Run All (On Google Collab. Then the program will run successfully.</li\>
+
+<!-- ## **UML Diagram**
 
 ### The following is the UML diagram in this LOST game which has been arranged in a perfect structure according to the plot :
 
@@ -96,4 +105,4 @@ python main.py
 <img src="img/Screenshot/Lost - Screenshot 1.png" />
 
 ## **Video Demo Game LOST**
-[![Lost Game Simulation](https://i.ytimg.com/vi/H1RpdxTeuoE/maxresdefault.jpg)](https://www.youtube.com/watch?v=H1RpdxTeuoE)
+[![Lost Game Simulation](https://i.ytimg.com/vi/H1RpdxTeuoE/maxresdefault.jpg)](https://www.youtube.com/watch?v=H1RpdxTeuoE) -->
