@@ -33,7 +33,7 @@ This study aims to compare the performance of the BiGRU model with Att-BiGRU in 
   <tr>
     <td style="text-align: center; vertical-align: middle; padding: 10px;">
       <a href="https://github.com/kevinsimorangkir21">
-        <img src="Images/Mentahan/Kevin.png" width="130px;" /><br />
+        <img src="Images/Mentahan/Kevin.png" width="140px;" /><br />
         <sub><b>Kevin Simorangkir</b></sub>
       </a><br />
       121140150
