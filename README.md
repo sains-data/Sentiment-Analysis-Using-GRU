@@ -50,7 +50,7 @@ The dataset used in the research on Sentiment Analysis Using GRU is a Film Revie
 https://bit.ly/Dataset-ReviewFilm
 ```
 
-##  <img src="Images/Mentahan/LogoPanah.svg" width="50px;"/> **Installation Steps**
+##  <img src="Images/Mentahan/LogoPanah.svg" width="30px;"/> **Installation Steps**
 ### **Preparation of Needs**
 Some of the preparations needed to carry out this research project are as follows:
 
