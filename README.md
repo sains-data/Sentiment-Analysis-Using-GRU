@@ -92,7 +92,7 @@ cd Sentiment-Analysis-Using-GRU
 
 <li> Next step, open the text editor that you have that supports python language. Please direct your cursor to the Analysis GRU.ipynb file.</li>
 
-<li> Please click <b>Run All (On Visual Studio Code)</b> and <b>Runtime -> Run All (On Google Collab<b\>. Then the program will run successfully.</li>
+<li> Please click <b>Run All (On Visual Studio Code)</b> and <b>Runtime -> Run All (On Google Collab)<b\>. Then the program will run successfully.</li>
 
 <!-- ## **UML Diagram**
 
