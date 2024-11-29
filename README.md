@@ -51,7 +51,7 @@ https://bit.ly/Dataset-ReviewFilm
 ```
 
 ##  <img src="Images/Mentahan/LogoPanah.svg" width="30px;"/> **Installation Steps**
-### **Preparation of Needs**
+### <img src="Images/Mentahan/LogoPanah2.svg" width="30px;"/> **Preparation of Needs**
 Some of the preparations needed to carry out this research project are as follows:
 
 <li> Install python software/code first </li>
@@ -76,7 +76,7 @@ python --version
 [Software GOOGLE COLLAB](https://colab.research.google.com/)
 ```
 
-### **Program Running Stage**
+### <img src="Images/Mentahan/LogoPanah2.svg" width="30px;"/> **Program Running Stage**
 
 <li> Open a terminal / something like GitBash etc. Please clone this Repository by following the following command and copy it in your terminal:</li>
 
