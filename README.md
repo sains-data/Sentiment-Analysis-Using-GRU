@@ -7,7 +7,7 @@
 [![Github Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg)](#)
 </div>
 
-## **Table Of Contents**
+## <img src\="Images/Mentahan/LogoPanah.svg" width\="30px;"/> **Table Of Contents**
 [Introduction]()
 
 [Member Of Team]()
@@ -22,15 +22,15 @@
 
 [Presentation Video]()
 
-## **Introduction**
+## <img src\="Images/Mentahan/LogoPanah.svg" width\="30px;"/> **Introduction**
 This study aims to compare the performance of the BiGRU model with Att-BiGRU in analyzing sentiment on movie review data. This study not only provides insight into the advantages of the Attention mechanism in improving model performance, but also contributes to the development of more effective sentiment analysis methods for data with complex characteristics such as movie reviews.
 
-## **Member Of Team**
+## <img src\="Images/Mentahan/LogoPanah.svg" width\="30px;"/> **Member Of Team**
 
 |  [<img src="Images/Mentahan/Kevin.png" width="100px;"/><br /><sub><b>Kevin Simorangkir</b></sub>](https://github.com/kevinsimorangkir21)<br /> 121140150 <br /> | [<img src="Images/Mentahan/Husni.png" width="100px;"/><br /><sub><b>Husni Na'fa Mubarok</b></sub>](https://github.com/nafamubarokhusni)<br />121140037 <br /> | [<img src="Images/Mentahan/Dhita.png" width="100px;"/><br /><sub><b>Ramadhita Atifa</b></sub>](https://github.com/ramadhitatifa)<br /> 121450131 <br /> | [<img src="Images/Mentahan/Maya.png" width="100px;"/><br /><sub><b>Mayada</b></sub>](https://github.com/awesomemaya1)<br />121450145 <br /> |
 |--|--|--|--|
 
-## **ID & Position Member Of Team**
+## <img src\="Images/Mentahan/LogoPanah.svg" width\="30px;"/> **ID & Position Member Of Team**
 <div align="left">
 
 | Name | ID Student | Position
@@ -43,7 +43,7 @@ This study aims to compare the performance of the BiGRU model with Att-BiGRU in 
 
 </div>
 
-## **Dataset**
+## <img src\="Images/Mentahan/LogoPanah.svg" width\="30px;"/> **Dataset**
 The dataset used in the research on Sentiment Analysis Using GRU is a Film Review consisting of 5000 data that has been obtained. The dataset can be downloaded via the link below:
 
 ```bash
