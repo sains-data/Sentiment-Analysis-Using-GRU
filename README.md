@@ -29,30 +29,30 @@ This study aims to compare the performance of the BiGRU model with Att-BiGRU in 
 
 ## **Member Of Team**
 
-<table style="margin: auto; text-align: center; border-collapse: collapse;">
+<table style="margin: auto; border-collapse: collapse;">
   <tr>
-    <td style="text-align: center; vertical-align: middle;">
+    <td style="text-align: center; vertical-align: middle; padding: 10px;">
       <a href="https://github.com/kevinsimorangkir21">
         <img src="Images/Mentahan/Kevin.png" width="130px;" /><br />
         <sub><b>Kevin Simorangkir</b></sub>
       </a><br />
       121140150
     </td>
-    <td style="text-align: center; vertical-align: middle;">
+    <td style="text-align: center; vertical-align: middle; padding: 10px;">
       <a href="https://github.com/nafamubarokhusni">
         <img src="Images/Mentahan/Husni.png" width="130px;" /><br />
         <sub><b>Husni Na'fa Mubarok</b></sub>
       </a><br />
       121450078
     </td>
-    <td style="text-align: center; vertical-align: middle;">
+    <td style="text-align: center; vertical-align: middle; padding: 10px;">
       <a href="https://github.com/ramadhitatifa">
         <img src="Images/Mentahan/Dhita.png" width="130px;" /><br />
         <sub><b>Ramadhita Atifa</b></sub>
       </a><br />
       121450131
     </td>
-    <td style="text-align: center; vertical-align: middle;">
+    <td style="text-align: center; vertical-align: middle; padding: 10px;">
       <a href="https://github.com/awesomemaya1">
         <img src="Images/Mentahan/Maya.png" width="130px;" /><br />
         <sub><b>Mayada</b></sub>
@@ -61,6 +61,7 @@ This study aims to compare the performance of the BiGRU model with Att-BiGRU in 
     </td>
   </tr>
 </table>
+
 
 
 
