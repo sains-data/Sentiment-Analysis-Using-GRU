@@ -29,38 +29,39 @@ This study aims to compare the performance of the BiGRU model with Att-BiGRU in 
 
 ## **Member Of Team**
 
-<table style="margin: auto; border-collapse: collapse;">
+<table style="margin: auto; border-collapse: collapse; text-align: center;">
   <tr>
     <td style="text-align: center; vertical-align: middle; padding: 10px;">
-      <a href="https://github.com/kevinsimorangkir21">
-        <img src="Images/Mentahan/Kevin.png" width="140px;" /><br />
+      <a href="https://github.com/kevinsimorangkir21" style="text-decoration: none; color: inherit;">
+        <img src="Images/Mentahan/Kevin.png" width="140px;" style="display: block; margin: 0 auto;" /><br />
         <sub><b>Kevin Simorangkir</b></sub>
       </a><br />
       121140150
     </td>
     <td style="text-align: center; vertical-align: middle; padding: 10px;">
-      <a href="https://github.com/nafamubarokhusni">
-        <img src="Images/Mentahan/Husni.png" width="140px;" /><br />
+      <a href="https://github.com/nafamubarokhusni" style="text-decoration: none; color: inherit;">
+        <img src="Images/Mentahan/Husni.png" width="140px;" style="display: block; margin: 0 auto;" /><br />
         <sub><b>Husni Na'fa Mubarok</b></sub>
       </a><br />
       121450078
     </td>
     <td style="text-align: center; vertical-align: middle; padding: 10px;">
-      <a href="https://github.com/ramadhitatifa">
-        <img src="Images/Mentahan/Dhita.png" width="140px;" /><br />
+      <a href="https://github.com/ramadhitatifa" style="text-decoration: none; color: inherit;">
+        <img src="Images/Mentahan/Dhita.png" width="140px;" style="display: block; margin: 0 auto;" /><br />
         <sub><b>Ramadhita Atifa</b></sub>
       </a><br />
       121450131
     </td>
     <td style="text-align: center; vertical-align: middle; padding: 10px;">
-      <a href="https://github.com/awesomemaya1">
-        <img src="Images/Mentahan/Maya.png" width="140px;" /><br />
+      <a href="https://github.com/awesomemaya1" style="text-decoration: none; color: inherit;">
+        <img src="Images/Mentahan/Maya.png" width="140px;" style="display: block; margin: 0 auto;" /><br />
         <sub><b>Mayada</b></sub>
       </a><br />
       121450145
     </td>
   </tr>
 </table>
+
 
 
 
