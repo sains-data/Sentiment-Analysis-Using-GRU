@@ -27,7 +27,7 @@ This study aims to compare the performance of the BiGRU model with Att-BiGRU in 
 
 ## <img src="Images/Mentahan/LogoPanah.svg" width="30px;"/> **Member Of Team**
 
-|  [<img src="Images/Mentahan/Kevin.png" width="100px;"/><br /><sub><b>Kevin Simorangkir</b></sub>](https://github.com/kevinsimorangkir21)<br /> 121140150 <br /> | [<img src="Images/Mentahan/Husni.png" width="100px;"/><br /><sub><b>Husni Na'fa Mubarok</b></sub>](https://github.com/nafamubarokhusni)<br />121140037 <br /> | [<img src="Images/Mentahan/Dhita.png" width="100px;"/><br /><sub><b>Ramadhita Atifa</b></sub>](https://github.com/ramadhitatifa)<br /> 121450131 <br /> | [<img src="Images/Mentahan/Maya.png" width="100px;"/><br /><sub><b>Mayada</b></sub>](https://github.com/awesomemaya1)<br />121450145 <br /> |
+|  [<img src="Images/Mentahan/Kevin.png" width="100px;"/><br /><sub><b>Kevin Simorangkir</b></sub>](https://github.com/kevinsimorangkir21)<br /> 121140150 <br /> | [<img src="Images/Mentahan/Husni.png" width="100px;"/><br /><sub><b>Husni Na'fa Mubarok</b></sub>](https://github.com/nafamubarokhusni)<br />121140037 <br /> | [<img src="Images/Mentahan/Dwi.png" width="100px;"/><br /><sub><b>Dwi Sulistiani</b></sub>](https://github.com/Dwisuliatiani) <br/> 121450079 <br /> | [<img src="Images/Mentahan/Dhita.png" width="100px;"/><br /><sub><b>Ramadhita Atifa</b></sub>](https://github.com/ramadhitatifa)<br /> 121450131 <br /> | [<img src="Images/Mentahan/Maya.png" width="100px;"/><br /><sub><b>Mayada</b></sub>](https://github.com/awesomemaya1)<br />121450145 <br /> |
 |--|--|--|--|
 
 ## <img src="Images/Mentahan/LogoPanah.svg" width="30px;"/> **ID & Position Member Of Team**
