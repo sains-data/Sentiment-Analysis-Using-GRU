@@ -105,4 +105,4 @@ The following is documentation of a series of studies for this major Deep Learni
 <img src="Images/Documentation/Documentation.png" />
 
 ## **Presentation Video**
-[![Presentation Video](https://i.ytimg.com/vi/7UIpQ3yELWA/hqdefault.jpg)](https://youtu.be/7UIpQ3yELWA?si=i9jWYmH6eDnOp2CP)
+[![Presentation Video](https://i.ytimg.com/vi/7UIpQ3yELWA/maxresdefault.jpg)](https://youtu.be/7UIpQ3yELWA?si=i9jWYmH6eDnOp2CP)
