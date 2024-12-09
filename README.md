@@ -33,13 +33,13 @@ This study aims to compare the performance of the BiGRU model with Att-BiGRU in 
 ## <img src="Images/Mentahan/LogoPanah.svg" width="30px;"/> **ID & Position Member Of Team**
 <div align="left">
 
-| Name | ID Student | Class | Position
-| :---: | :---: | :---: | :---: |
-| Kevin Simorangkir     | 121140150 | RA | Chairman
-| Husni Na'fa Mubarok   | 121450078 | RA | Member
-| Dwi Sulistiani        | 121450079 | RB | Member
-| Ramadhita Atifa Hendri| 121450131 | RC | Member
-| Mayada                | 121450145 | RC | Member
+| Name | ID Student | Class | Major | Position 
+| :---: | :---: | :---: | :---: | :---: |
+| Kevin Simorangkir     | 121140150 | RA | Informatics Engineering | Chairman
+| Husni Na'fa Mubarok   | 121450078 | RA | Sains Data | Member
+| Dwi Sulistiani        | 121450079 | RB | Sains Data | Member
+| Ramadhita Atifa Hendri| 121450131 | RC | Sains Data | Member
+| Mayada                | 121450145 | RC | Sains Data | Member
 
 </div>
 
