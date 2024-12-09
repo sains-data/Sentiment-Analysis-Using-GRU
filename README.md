@@ -34,7 +34,7 @@ This study aims to compare the performance of the BiGRU model with Att-BiGRU in 
 <div align="left">
 
 | Name | ID Student | Class | Position
-| :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: |
 | Kevin Simorangkir     | 121140150 | RA | Chairman
 | Husni Na'fa Mubarok   | 121450078 | RA | Member
 | Dwi Sulistiani        | 121450079 | RB | Member
