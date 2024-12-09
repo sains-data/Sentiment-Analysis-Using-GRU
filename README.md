@@ -104,7 +104,7 @@ The following is a research method in analyzing sentiment using GRU on the Film 
 The following is documentation of a series of studies for this major Deep Learning assignment for Group 06, namely as follows:
 <img src="Images/Documentation/Documentation.png" />
 
-## **Presentation Video**
+## <img src="Images/Mentahan/LogoPanah.svg" width="30px;"/> **Presentation Video**
 <a href="https://youtu.be/7UIpQ3yELWA?si=i9jWYmH6eDnOp2CP">
   <img src="https://i.ytimg.com/vi/7UIpQ3yELWA/maxresdefault.jpg" alt="Presentation Video">
 </a>
