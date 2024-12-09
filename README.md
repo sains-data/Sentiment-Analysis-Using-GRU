@@ -8,21 +8,21 @@
 </div>
 
 ## <img src="Images/Mentahan/LogoPanah.svg" width="30px;"/> **Table Of Contents**
-[Introduction]()
+[Introduction](#introduction)
 
-[Member Of Team]()
+[Member Of Team](#member-of-team)
 
-[Role & Position Member Of Team]()
+[Role & Position Member Of Team](#id--position-member-of-team)
 
-[Dataset]()
+[Dataset](#dataset)
 
-[Installation Steps]()
+[Installation Steps](#installation-steps)
 
-[Documentation]()
+[Documentation](#documentation)
 
-[Research Method]()
+[Research Method](#research-method)
 
-[Presentation Video]()
+[Presentation Video](#presentation-video)
 
 ## <img src="Images/Mentahan/LogoPanah.svg" width="30px;"/> **Introduction**
 This study aims to compare the performance of the BiGRU model with Att-BiGRU in analyzing sentiment on movie review data. This study not only provides insight into the advantages of the Attention mechanism in improving model performance, but also contributes to the development of more effective sentiment analysis methods for data with complex characteristics such as movie reviews.
@@ -108,4 +108,3 @@ The following is documentation of a series of studies for this major Deep Learni
 <a href="https://youtu.be/7UIpQ3yELWA?si=i9jWYmH6eDnOp2CP">
   <img src="https://i.ytimg.com/vi/7UIpQ3yELWA/maxresdefault.jpg" alt="Presentation Video">
 </a>
-
