@@ -102,7 +102,7 @@ The following is documentation of a series of studies for this major Deep Learni
 - For those that are pictured Coming Soon, it is an agenda that has not been implemented
 - Updated regularly
 
-## **Research Method**
+## <img src="Images/Mentahan/LogoPanah.svg" width="30px;"/> **Research Method**
 The following is a research method in analyzing sentiment using GRU on the Film Review Dataset:
 <img src="Images/Mentahan/Method.png" />*
 
