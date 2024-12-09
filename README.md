@@ -103,10 +103,6 @@ The following is a research method in analyzing sentiment using GRU on the Film 
 ## <img src="Images/Mentahan/LogoPanah.svg" width="30px;"/> **Documentation**
 The following is documentation of a series of studies for this major Deep Learning assignment for Group 06, namely as follows:
 <img src="Images/Documentation/Documentation.png" />
-- For those that are pictured Coming Soon, it is an agenda that has not been implemented
-- Updated regularly
 
-
-
-<!-- ## **Video Demo Game LOST**
-[![Lost Game Simulation](https://i.ytimg.com/vi/H1RpdxTeuoE/maxresdefault.jpg)](https://www.youtube.com/watch?v=H1RpdxTeuoE) -->
+## **Presentation Video**
+[![Presentation Video](https://i.ytimg.com/vi/7UIpQ3yELWA/hqdefault.jpg)](https://youtu.be/7UIpQ3yELWA?si=i9jWYmH6eDnOp2CP)
