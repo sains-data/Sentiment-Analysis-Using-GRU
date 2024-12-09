@@ -20,6 +20,8 @@
 
 [Documentation]()
 
+[Research Method]()
+
 [Presentation Video]()
 
 ## <img src="Images/Mentahan/LogoPanah.svg" width="30px;"/> **Introduction**
@@ -100,9 +102,9 @@ The following is documentation of a series of studies for this major Deep Learni
 - For those that are pictured Coming Soon, it is an agenda that has not been implemented
 - Updated regularly
 
-<!-- ## **Screenshots**
-### The following is the appearance of the game in this LOST game which has been arranged with a perfect structure according to the plot :
-<img src="img/Screenshot/Lost - Screenshot 1.png" />
+## **Research Method**
+The following is a research method in analyzing sentiment using GRU on the Film Review Dataset:
+<img src="Images/Mentahan/Method.png" />*
 
-## **Video Demo Game LOST**
+<!-- ## **Video Demo Game LOST**
 [![Lost Game Simulation](https://i.ytimg.com/vi/H1RpdxTeuoE/maxresdefault.jpg)](https://www.youtube.com/watch?v=H1RpdxTeuoE) -->
