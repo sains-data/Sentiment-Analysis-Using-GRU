@@ -104,7 +104,7 @@ The following is documentation of a series of studies for this major Deep Learni
 
 ## <img src="Images/Mentahan/LogoPanah.svg" width="30px;"/> **Research Method**
 The following is a research method in analyzing sentiment using GRU on the Film Review Dataset:
-<img src="Images/Mentahan/Method.png" />*
+<img src="Images/Mentahan/Method.png" />
 
 <!-- ## **Video Demo Game LOST**
 [![Lost Game Simulation](https://i.ytimg.com/vi/H1RpdxTeuoE/maxresdefault.jpg)](https://www.youtube.com/watch?v=H1RpdxTeuoE) -->
