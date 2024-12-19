@@ -22,8 +22,6 @@
 
 [Research Method](#research-method)
 
-[Presentation Video](#presentation-video)
-
 ## <img src="Images/Mentahan/LogoPanah.svg" width="30px;"/> **Introduction**
 This study aims to compare the performance of the BiGRU model with Att-BiGRU in analyzing sentiment on movie review data. This study not only provides insight into the advantages of the Attention mechanism in improving model performance, but also contributes to the development of more effective sentiment analysis methods for data with complex characteristics such as movie reviews.
 
