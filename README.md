@@ -33,6 +33,8 @@ This study aims to compare the performance of the BiGRU model with Att-BiGRU in 
 ## <img src="Images/Mentahan/LogoPanah.svg" width="30px;"/> **ID & Position Member Of Team**
 <div align="left">
 
+The following members are involved in carrying out the major deep learning research task which consists of 5 members, namely:
+
 | Name | ID Student | Class | Major | Position 
 | :---: | :---: | :---: | :---: | :---: |
 | Kevin Simorangkir     | 121140150 | RA | Informatics Engineering | Chairman
